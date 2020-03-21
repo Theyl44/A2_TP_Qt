@@ -123,6 +123,154 @@ TP2/fast:
 	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/build
 .PHONY : TP2/fast
 
+#=============================================================================
+# Target rules for targets named TP2_autogen
+
+# Build rule for target.
+TP2_autogen: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 TP2_autogen
+.PHONY : TP2_autogen
+
+# fast build rule for target.
+TP2_autogen/fast:
+	$(MAKE) -f CMakeFiles/TP2_autogen.dir/build.make CMakeFiles/TP2_autogen.dir/build
+.PHONY : TP2_autogen/fast
+
+ButtonsPanel.o: ButtonsPanel.cpp.o
+
+.PHONY : ButtonsPanel.o
+
+# target to build an object file
+ButtonsPanel.cpp.o:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ButtonsPanel.cpp.o
+.PHONY : ButtonsPanel.cpp.o
+
+ButtonsPanel.i: ButtonsPanel.cpp.i
+
+.PHONY : ButtonsPanel.i
+
+# target to preprocess a source file
+ButtonsPanel.cpp.i:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ButtonsPanel.cpp.i
+.PHONY : ButtonsPanel.cpp.i
+
+ButtonsPanel.s: ButtonsPanel.cpp.s
+
+.PHONY : ButtonsPanel.s
+
+# target to generate assembly for a file
+ButtonsPanel.cpp.s:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ButtonsPanel.cpp.s
+.PHONY : ButtonsPanel.cpp.s
+
+ConfigurationDialog.o: ConfigurationDialog.cpp.o
+
+.PHONY : ConfigurationDialog.o
+
+# target to build an object file
+ConfigurationDialog.cpp.o:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ConfigurationDialog.cpp.o
+.PHONY : ConfigurationDialog.cpp.o
+
+ConfigurationDialog.i: ConfigurationDialog.cpp.i
+
+.PHONY : ConfigurationDialog.i
+
+# target to preprocess a source file
+ConfigurationDialog.cpp.i:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ConfigurationDialog.cpp.i
+.PHONY : ConfigurationDialog.cpp.i
+
+ConfigurationDialog.s: ConfigurationDialog.cpp.s
+
+.PHONY : ConfigurationDialog.s
+
+# target to generate assembly for a file
+ConfigurationDialog.cpp.s:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/ConfigurationDialog.cpp.s
+.PHONY : ConfigurationDialog.cpp.s
+
+LabeledTextField.o: LabeledTextField.cpp.o
+
+.PHONY : LabeledTextField.o
+
+# target to build an object file
+LabeledTextField.cpp.o:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/LabeledTextField.cpp.o
+.PHONY : LabeledTextField.cpp.o
+
+LabeledTextField.i: LabeledTextField.cpp.i
+
+.PHONY : LabeledTextField.i
+
+# target to preprocess a source file
+LabeledTextField.cpp.i:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/LabeledTextField.cpp.i
+.PHONY : LabeledTextField.cpp.i
+
+LabeledTextField.s: LabeledTextField.cpp.s
+
+.PHONY : LabeledTextField.s
+
+# target to generate assembly for a file
+LabeledTextField.cpp.s:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/LabeledTextField.cpp.s
+.PHONY : LabeledTextField.cpp.s
+
+SQLClientWindow.o: SQLClientWindow.cpp.o
+
+.PHONY : SQLClientWindow.o
+
+# target to build an object file
+SQLClientWindow.cpp.o:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/SQLClientWindow.cpp.o
+.PHONY : SQLClientWindow.cpp.o
+
+SQLClientWindow.i: SQLClientWindow.cpp.i
+
+.PHONY : SQLClientWindow.i
+
+# target to preprocess a source file
+SQLClientWindow.cpp.i:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/SQLClientWindow.cpp.i
+.PHONY : SQLClientWindow.cpp.i
+
+SQLClientWindow.s: SQLClientWindow.cpp.s
+
+.PHONY : SQLClientWindow.s
+
+# target to generate assembly for a file
+SQLClientWindow.cpp.s:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/SQLClientWindow.cpp.s
+.PHONY : SQLClientWindow.cpp.s
+
+TP2_autogen/mocs_compilation.o: TP2_autogen/mocs_compilation.cpp.o
+
+.PHONY : TP2_autogen/mocs_compilation.o
+
+# target to build an object file
+TP2_autogen/mocs_compilation.cpp.o:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/TP2_autogen/mocs_compilation.cpp.o
+.PHONY : TP2_autogen/mocs_compilation.cpp.o
+
+TP2_autogen/mocs_compilation.i: TP2_autogen/mocs_compilation.cpp.i
+
+.PHONY : TP2_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+TP2_autogen/mocs_compilation.cpp.i:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/TP2_autogen/mocs_compilation.cpp.i
+.PHONY : TP2_autogen/mocs_compilation.cpp.i
+
+TP2_autogen/mocs_compilation.s: TP2_autogen/mocs_compilation.cpp.s
+
+.PHONY : TP2_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+TP2_autogen/mocs_compilation.cpp.s:
+	$(MAKE) -f CMakeFiles/TP2.dir/build.make CMakeFiles/TP2.dir/TP2_autogen/mocs_compilation.cpp.s
+.PHONY : TP2_autogen/mocs_compilation.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +307,22 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... TP2"
 	@echo "... edit_cache"
+	@echo "... TP2_autogen"
+	@echo "... ButtonsPanel.o"
+	@echo "... ButtonsPanel.i"
+	@echo "... ButtonsPanel.s"
+	@echo "... ConfigurationDialog.o"
+	@echo "... ConfigurationDialog.i"
+	@echo "... ConfigurationDialog.s"
+	@echo "... LabeledTextField.o"
+	@echo "... LabeledTextField.i"
+	@echo "... LabeledTextField.s"
+	@echo "... SQLClientWindow.o"
+	@echo "... SQLClientWindow.i"
+	@echo "... SQLClientWindow.s"
+	@echo "... TP2_autogen/mocs_compilation.o"
+	@echo "... TP2_autogen/mocs_compilation.i"
+	@echo "... TP2_autogen/mocs_compilation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

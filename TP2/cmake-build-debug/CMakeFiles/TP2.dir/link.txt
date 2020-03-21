@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/TP2.dir/main.cpp.o  -o TP2 
+/usr/bin/c++  -g   CMakeFiles/TP2.dir/main.cpp.o CMakeFiles/TP2.dir/SQLClientWindow.cpp.o CMakeFiles/TP2.dir/ButtonsPanel.cpp.o CMakeFiles/TP2.dir/LabeledTextField.cpp.o CMakeFiles/TP2.dir/ConfigurationDialog.cpp.o CMakeFiles/TP2.dir/TP2_autogen/mocs_compilation.cpp.o  -o TP2 /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.11.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.11.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.11.3 

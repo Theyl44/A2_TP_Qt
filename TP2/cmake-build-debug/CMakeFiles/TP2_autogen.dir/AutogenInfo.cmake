@@ -11,8 +11,8 @@ set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
 set(AM_BUILD_DIR "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/cmake-build-debug/TP2_autogen")
 set(AM_INCLUDE_DIR "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/cmake-build-debug/TP2_autogen/include")
 # Files
-set(AM_SOURCES "")
-set(AM_HEADERS "")
+set(AM_SOURCES "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/ButtonsPanel.cpp;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/ConfigurationDialog.cpp;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/LabeledTextField.cpp;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/SQLClientWindow.cpp;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/main.cpp")
+set(AM_HEADERS "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/ButtonsPanel.h;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/ConfigurationDialog.h;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/LabeledTextField.h;/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/SQLClientWindow.h")
 set(AM_SETTINGS_FILE "/mnt/c/Users/Théo/Desktop/ISEN/2019-2020 CIR2/INFO/Qt/qt-tp/TP2/cmake-build-debug/CMakeFiles/TP2_autogen.dir/AutogenOldSettings.txt")
 # Qt
 set(AM_QT_VERSION_MAJOR 5)
